@@ -2,7 +2,7 @@
 
 ## Description
 This program was made in order to help faciliate my practice routine.
-Each challenge in this program is meant to test a guitarist's basic skills.
+Each challenge type in this program is meant to test a guitarist's basic skills.
 
 Each challenge has 4 difficulty levels: Easy, Medium, Hard, and Rapid.
 The Rapid difficulty is a combination of all the previous 3 difficulties, plus
