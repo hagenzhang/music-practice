@@ -10,5 +10,5 @@ This project uses:
 * JFugue v5.0.9
 
 ## Usage
-To run this project, simply run the provided .jar file. It will run the most recent version.
+Go to my website to see this code in action!
 
