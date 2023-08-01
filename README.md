@@ -1,18 +1,12 @@
 # Music Practice Helper
 
 ## Description
-This program was made in order to help faciliate my practice routine.
-Each challenge type in this program is meant to test a guitarist's basic skills.
-
-Each challenge has 4 difficulty levels: Easy, Medium, Hard, and Rapid.
-The Rapid difficulty is a combination of all the previous 3 difficulties, plus
-a shortened prompt for a more streamlined practice session once the user develops
-an understanding of how the challenge works.
-
+This project is a SpringBoot application, and acts as the backend for the music practice on my personal website.
 
 ## Technologies
 This project uses:
 * Java v11.0.11
+* SpringBoot v3.1.2
 * JFugue v5.0.9
 
 ## Usage
