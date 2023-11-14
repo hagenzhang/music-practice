@@ -1,0 +1,9 @@
+com/music/practice/PracticeApplication.class
+com/music/practice/controller/PracticeController.class
+com/music/practice/model/FretboardFamiliarity.class
+com/music/practice/model/PracticeProgram.class
+com/music/practice/model/enums/Difficulty.class
+com/music/practice/model/Interval.class
+com/music/practice/model/ChordConstruction.class
+com/music/practice/model/enums/Interval.class
+com/music/practice/config/CorsConfig.class
